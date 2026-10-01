@@ -1,0 +1,24 @@
+CONVITE DE CASAMENTO — KARINE & HITALO
+
+COMO ABRIR
+Extraia o ZIP e abra index.html no navegador.
+As fontes do Google precisam de conexão com a internet; sem internet, o navegador usa fontes alternativas.
+
+LISTA DE PRESENTES
+Abra config.js em um editor de texto e preencha giftListUrl:
+window.INVITE_CONFIG = { giftListUrl: "https://seu-link-aqui.com" };
+Salve o arquivo. O botão ficará ativo e abrirá o endereço em uma nova aba.
+
+ARQUIVOS
+index.html: conteúdo e estrutura do convite.
+style.css: cores, tipografia, layout e transições.
+app.js: abertura do envelope e ampliação das fotos.
+config.js: endereço da lista de presentes.
+assets/: seis fotos dos noivos e imagem do envelope.
+
+HOSPEDAGEM
+Envie todos os arquivos e a pasta assets, mantendo a estrutura, para uma hospedagem de sites estáticos.
+Não há instalação de dependências nem etapa de compilação.
+Alterações nesta cópia não atualizam automaticamente a versão publicada no ChatGPT.
+
+Versão: data em destaque e galeria Polaroid, 01/10/2026.
